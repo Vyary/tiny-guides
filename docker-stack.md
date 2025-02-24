@@ -16,7 +16,7 @@ ssh -i <ssh-key.key> username@public-ip
 ```
 
 ## 4. Install Docker on the VPS
-Follow the [official Docker installation guide](https://docs.docker.com/get-docker/) for your VPS's operating system.
+Follow the [official Docker installation guide](https://docs.docker.com/engine/install/) for your VPS's operating system.
 
 ## 5. Add your user to the docker group
 Run Docker without root privileges:
